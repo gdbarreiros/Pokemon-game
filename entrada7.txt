@@ -1,0 +1,5 @@
+20 20
+Nidoran 1 4 9
+Quilava 2 3 4
+Rayquaza 3 10 5
+Pikachu 4 11 8
